@@ -1,2 +1,2 @@
 # bee
-beemon related projects for bee recognition and retrieval from video 
+beemon related projects for bee recognition/retrieval from video along with feature creation and classification
